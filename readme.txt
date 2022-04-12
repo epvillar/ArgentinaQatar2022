@@ -1,4 +1,4 @@
-    Project Argentina Dakar 2022, clone of project Argentina Patagonia, 
+    Project Argentina Qatar 2022, clone of project Argentina Patagonia, 
     based on:
     
     J Smilga - 15 vanilla js projects - PROJECT SCROLL
